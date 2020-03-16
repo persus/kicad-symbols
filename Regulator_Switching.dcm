@@ -1650,6 +1650,18 @@ K simple-switcher buck step-down voltage-regulator
 F http://www.ti.com/lit/ds/symlink/lmr16006y-q1.pdf
 $ENDCMP
 #
+$CMP LMR33640ADDA
+D Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=4A, F=400kHz, Adjustable output voltage
+K simple-switcher synchronous buck step-down voltage-regulator
+F http://www.ti.com/lit/ds/symlink/lmr33640.pdf
+$ENDCMP
+#
+$CMP LMR33640DDDA
+D Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=4A, F=1000kHz, Adjustable output voltage
+K simple-switcher synchronous buck step-down voltage-regulator
+F http://www.ti.com/lit/ds/symlink/lmr33640.pdf
+$ENDCMP
+#
 $CMP LMR62014XMF
 D 1.4A, 20Vout Step-Up Voltage Regulator, 1.6MHz Frequency, SOT-23-5
 K Miniature Step-Up Boost Voltage Regulator
@@ -2602,6 +2614,18 @@ $CMP LTC1878EMS8
 D High Efficiency Monolithic Synchronous Step-Down Regulator, MSOP-8
 K Synchronous Step-Down Regulator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1878f.pdf
+$ENDCMP
+#
+$CMP LTC3105xDD
+D 400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up, DFN-10
+K Solar MPPT Maximum Power Point Control Converter Step-Up
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf
+$ENDCMP
+#
+$CMP LTC3105xMS
+D 400mA Step-Up DC/DC Converter with Maximum Power Point Control and 250mV Start-Up, MSOP-12
+K Solar MPPT Maximum Power Point Control Converter Step-Up
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3105fb.pdf
 $ENDCMP
 #
 $CMP LTC3406AES5
