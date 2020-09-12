@@ -1602,6 +1602,12 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
+$CMP L_ALT
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP L_Core_Ferrite
 D Inductor with ferrite core
 K inductor choke coil reactor magnetic
@@ -1809,6 +1815,12 @@ $ENDCMP
 $CMP L_Small
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_Small_ALT
+D Resistor, small symbol
+K R resistor
 F ~
 $ENDCMP
 #
