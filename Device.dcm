@@ -1410,6 +1410,12 @@ K LED diode bicolor dual
 F ~
 $ENDCMP
 #
+$CMP LED_Dual_Small_ACAC
+D Dual light emitting diode, small separate symbols
+K Dual LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
 $CMP LED_GABR
 D RGB LED, green/anode/blue/red
 K LED RGB diode
