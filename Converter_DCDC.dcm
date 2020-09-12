@@ -2364,6 +2364,186 @@ K XP_POWER isolated DC/DC Converter module
 F https://www.xppower.com/Portals/0/pdfs/SF_JTE06.pdf
 $ENDCMP
 #
+$CMP MEE1S0303SC
+D 1W, 1000 VDC isolated DC/DC converter, 3V3 input, 3V3 output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0305SC
+D 1W, 1000 VDC isolated DC/DC converter, 3V3 input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0309SC
+D 1W, 1000 VDC isolated DC/DC converter, 3V3 input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0312SC
+D 1W, 1000 VDC isolated DC/DC converter, 3V3 input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0315SC
+D 1W, 1000 VDC isolated DC/DC converter, 3V3 input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0503SC
+D 1W, 1000 VDC isolated DC/DC converter, 5V input, 3V3 output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0505SC
+D 1W, 1000 VDC isolated DC/DC converter, 5V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0509SC
+D 1W, 1000 VDC isolated DC/DC converter, 5V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0512SC
+D 1W, 1000 VDC isolated DC/DC converter, 5V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S0515SC
+D 1W, 1000 VDC isolated DC/DC converter, 5V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1205SC
+D 1W, 1000 VDC isolated DC/DC converter, 12V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1209SC
+D 1W, 1000 VDC isolated DC/DC converter, 12V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1212SC
+D 1W, 1000 VDC isolated DC/DC converter, 12V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1215SC
+D 1W, 1000 VDC isolated DC/DC converter, 12V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1505SC
+D 1W, 1000 VDC isolated DC/DC converter, 15V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1509SC
+D 1W, 1000 VDC isolated DC/DC converter, 15V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1512SC
+D 1W, 1000 VDC isolated DC/DC converter, 15V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S1515SC
+D 1W, 1000 VDC isolated DC/DC converter, 15V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S2405SC
+D 1W, 1000 VDC isolated DC/DC converter, 24V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S2409SC
+D 1W, 1000 VDC isolated DC/DC converter, 24V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S2412SC
+D 1W, 1000 VDC isolated DC/DC converter, 24V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE1S2415SC
+D 1W, 1000 VDC isolated DC/DC converter, 24V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
+$ENDCMP
+#
+$CMP MEE3S0505SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S0509SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S0512SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S0515SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1205SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1209SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1212SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1215SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
 $CMP MGJ2D051505SC
 D 5.2kVDC Isolated 2W Gate Drive, 5V Vin, +15V/-5V Vout
 K DC/DC converter
@@ -3028,6 +3208,24 @@ $CMP TMR2-4813WI
 D 135mA Regulated 2W DC/DC converter with 1.5kV isolation, 18V-75V input, 15V fixed Output Voltage, SIP-9
 K Traco isolated isolation dc-dc converter transformer
 F https://www.tracopower.com/products/tmr2wi.pdf
+$ENDCMP
+#
+$CMP TPSM53602RDA
+D  36-V, 2A input, stepdown, DC/DC converter, Texas B3QFN-14
+K step down DCDC converter regulator
+F https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
+$ENDCMP
+#
+$CMP TPSM53603RDA
+D  36-V, 3A input, stepdown, DC/DC converter, Texas B3QFN-14
+K step down DCDC converter regulator
+F https://www.ti.com/lit/ds/symlink/tpsm53603.pdf
+$ENDCMP
+#
+$CMP TPSM53604RDA
+D  36-V, 4A input, stepdown, DC/DC converter, Texas B3QFN-14
+K step down DCDC converter regulator
+F https://www.ti.com/lit/ds/symlink/tpsm53604.pdf
 $ENDCMP
 #
 #End Doc Library
