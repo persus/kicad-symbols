@@ -3390,6 +3390,18 @@ K regulator switching adjustable
 F https://www.monolithicpower.com/pub/media/document/m/p/mp171_r1.01.pdf
 $ENDCMP
 #
+$CMP MP2303ADN
+D Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, SOIC-8
+K buck converter step down
+F https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf
+$ENDCMP
+#
+$CMP MP2303ADP
+D Synchronous Rectified 3A, 28V, 360kHz Step-Down Converter, DIP-8
+K buck converter step down
+F https://www.monolithicpower.com/pub/media/document/MP2303A_r1.1.pdf
+$ENDCMP
+#
 $CMP MT3608
 D High Efficiency 1.2MHz 2A Step Up Converter, 2-24V Vin, 28V Vout, 4A current limit, 1.2MHz, SOT23-6
 K Step-Up Boost DC-DC Regulator Adjustable
@@ -3819,43 +3831,43 @@ $ENDCMP
 $CMP NXE1S0303MC
 D 1W 3.3V to 3.3V 303mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe1.pdf
+F https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf
 $ENDCMP
 #
 $CMP NXE1S0305MC
 D 1W 3.3V to 5V 200mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe1.pdf
+F https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf
 $ENDCMP
 #
 $CMP NXE1S0505MC
 D 1W 5V to 5V 200mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe1.pdf
+F https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf
 $ENDCMP
 #
 $CMP NXE2S0505MC
 D 2W 5V to 5V 400mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
+F https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf
 $ENDCMP
 #
 $CMP NXE2S1205MC
 D 2W 12V to 5V 400mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
+F https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf
 $ENDCMP
 #
 $CMP NXE2S1212MC
 D 2W 12V to 12V 400mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
+F https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf
 $ENDCMP
 #
 $CMP NXE2S1215MC
 D 2W 12V to 15V 400mA DC-DC Converter with 3kV isolation
 K isolated isolation dc-dc converter transformer
-F http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
+F https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf
 $ENDCMP
 #
 $CMP PAM2301CAAB120
